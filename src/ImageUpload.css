@@ -1,0 +1,29 @@
+.imageUpload{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 10px;
+}
+
+.caption{
+	background: -webkit-linear-gradient(top, #f9f9f9, #e3e3e3);
+	color: black;
+	border-radius: 3px;
+	margin-right: 5px;
+	border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    cursor: pointer;
+    text-shadow: 1px 1px #fff;
+    font-weight: 700;
+    font-size: 10pt;
+    max-width: 120px;
+}
+
+.upload{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
